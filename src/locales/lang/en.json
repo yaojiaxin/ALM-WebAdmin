@@ -1,0 +1,101 @@
+{
+    "administrator": "Site Administrator",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Edit": "Edit",
+
+    "Add": "Add",
+
+    "Back Home": "Back Home",
+    "404": "sorry, the page you visit does not exist.",
+
+    "login": {
+        "userName": "USER NAME",
+        "password": "PASSWORD",
+        "login": "LOGIN",
+        "userName required": "User Name is required",
+        "password required": "Password is required"
+    },
+
+    "valid": {
+        "email": "Invalid email"
+    },
+
+    "activeCustomer": "Active Customer",
+    "userManagement": {
+        "addUser": "Add User",
+        "FILTER": "Filter",
+        "userName": "User Name",
+        "fullName": "Full Name",
+        "email": "Email",
+        "activationStatus": "Activation Status",
+        "locked": "Locked",
+        "autoDeactivationDate": "Auto Deactivation Date",
+        "role": "Role",
+        "phone": "Phone Number",
+        "description": "Description",
+        "authenticationPolicy": "Authentication Policy",
+        "FULLNAME": "FULL NAME",
+        "EMAIL": "EMAIL",
+        "ACTIVATION_STATUS": "ACTIVATION STATUS",
+        "AUTO_DEACTIVATION_DATE": "AUTO DEACTIVATION DATE",
+        "totalItems": "Total items",
+        "CLEAR": "Clear",
+        "User Details": "USER DETAILS",
+        "User Projects": "USER PROJECTS",
+        "user add success": "User added successfully.",
+        "userToolBar": {
+            "more": "More",
+
+            "deleteSuccessModalCancel": "Cancel",
+            "successModalSubmit": "Export To CSV",
+            "successTableTitle": "Name",
+            "successTableStatus": "Status",
+            "successTableMessage": "Message",
+
+            "deleteTitle": "Delete Users",
+            "deleteUserTitle": "DELETE USER",
+            "deleteUserContent": "The selected user will be deleted. \nAll of the user's API Keys will be deleted also. Continue?\n",
+            "deleteSuccessMessage": "User Deleted Successfully",
+            "delete": "Delete",
+
+
+            "activeUser": "Active Users",
+            "activeUserTitle": "ACTIVE USER",
+            "activeUserContent": "The selected user will be activated. Continue?",
+            "activeSuccessMessage": "User Activated Successfully",
+            "active": "Active",
+            "discard": "Discard",
+
+            "deActiveUser": "DeActive Users",
+            "deActiveUserTitle": "DEACTIVE USER",
+            "deActiveUserContent": "The selected user will be deactivated. \nAll of the user's API Keys will be deleted also. Continue?",
+            "deActiveSuccessMessage": "User Deactivated Successfully",
+            "deActive": "DeActive",
+
+            "SuccessModalSubmit": "OK",
+            "refreshTitle": "Refresh"
+        },
+        "userAdd": {
+            "AddNewUser": "ADD NEW USER"
+        }
+    },
+    "menu": {
+        "Configuration": "Configuration",
+        "Licenses": "Licenses",
+        "LicenseManagement": "License Management",
+        "LicenseUsageReport": "License Usage Report",
+        "Monitoring": "Monitoring",
+        "ConnectedUsers": "Connected Users",
+        "AuditLog": "Audit Log",
+        "Servers": "Servers",
+        "ApplicationServers": "Application Servers",
+        "DBServers": "DB Servers",
+        "Projects": "Projects",
+        "LabManagement": "Lab Management",
+        "Customers": "Customers",
+        "UsersManagement": "Users Management",
+        "RoleManagement": "Role Management",
+        "Authentication": "Authentication"
+    }
+}

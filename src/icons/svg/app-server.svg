@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>server_server</title>
+    <g id="server_server" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AddDomain" transform="translate(0.000000, 8.000000)" fill="#656668" fill-rule="nonzero">
+            <path d="M16.6666667,116.666667 L16.6666667,16.6666667 L183.333333,16.6666667 L183.333333,116.666667 L16.6666667,116.666667 Z M83.3333333,166.666667 L83.3333333,133.333333 L116.666667,133.333333 L116.666667,166.666667 L83.3333333,166.666667 Z M200,0 L0,0 L0,133.333333 L66.6666667,133.333333 L66.6666667,166.666667 L41.6666667,166.666667 L41.6666667,183.333333 L158.333333,183.333333 L158.333333,166.666667 L133.333333,166.666667 L133.333333,133.333333 L200,133.333333 L200,0 Z" id="形状"></path>
+        </g>
+    </g>
+</svg>

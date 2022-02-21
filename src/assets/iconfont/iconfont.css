@@ -1,0 +1,405 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2240461 */
+  src: url('iconfont.eot?t=1637896860845'); /* IE9 */
+  src: url('iconfont.eot?t=1637896860845#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1637896860845') format('woff2'),
+       url('iconfont.woff?t=1637896860845') format('woff'),
+       url('iconfont.ttf?t=1637896860845') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-owner_customer:before {
+  content: "\e605";
+}
+
+.icon-end_customer:before {
+  content: "\e602";
+}
+
+.icon-project:before {
+  content: "\e600";
+}
+
+.icon-a-Project-pause:before {
+  content: "\e6a4";
+}
+
+.icon-a-Project-repairrecovery:before {
+  content: "\e6a3";
+}
+
+.icon-Project-resume:before {
+  content: "\e6a0";
+}
+
+.icon-Project-abort:before {
+  content: "\e6a1";
+}
+
+.icon-Project-clear:before {
+  content: "\e6a2";
+}
+
+.icon-TaskStatus-AllEnable:before {
+  content: "\e69d";
+}
+
+.icon-TaskStatus-AllDisabled:before {
+  content: "\e69e";
+}
+
+.icon-TaskStatus:before {
+  content: "\e69f";
+}
+
+.icon-deactive:before {
+  content: "\e633";
+}
+
+.icon-AddOwner:before {
+  content: "\e69c";
+}
+
+.icon-Configuration_export:before {
+  content: "\e69b";
+}
+
+.icon-MonitoringSendMessage:before {
+  content: "\e69a";
+}
+
+.icon-MonitoringExportCsv:before {
+  content: "\e68d";
+}
+
+.icon-licensesUnshow:before {
+  content: "\e698";
+}
+
+.icon-licensesShow:before {
+  content: "\e699";
+}
+
+.icon-licensesCopy:before {
+  content: "\e697";
+}
+
+.icon-customers:before {
+  content: "\e691";
+}
+
+.icon-projects:before {
+  content: "\e692";
+}
+
+.icon-time:before {
+  content: "\e693";
+}
+
+.icon-roleManagement:before {
+  content: "\e694";
+}
+
+.icon-monitoring:before {
+  content: "\e695";
+}
+
+.icon-licenses:before {
+  content: "\e696";
+}
+
+.icon-configuration:before {
+  content: "\e68e";
+}
+
+.icon-help:before {
+  content: "\e68f";
+}
+
+.icon-authentication:before {
+  content: "\e690";
+}
+
+.icon-link:before {
+  content: "\e68c";
+}
+
+.icon-Project-WrongNumber:before {
+  content: "\e68b";
+}
+
+.icon-link2:before {
+  content: "\e603";
+}
+
+.icon-Icon-Domain:before {
+  content: "\e688";
+}
+
+.icon-Project-Go:before {
+  content: "\e672";
+}
+
+.icon-Project-CreateProject:before {
+  content: "\e673";
+}
+
+.icon-Project-CreateTemplate:before {
+  content: "\e674";
+}
+
+.icon-Project-EnableVersioning:before {
+  content: "\e675";
+}
+
+.icon-Project-DisableVersioning:before {
+  content: "\e676";
+}
+
+.icon-Project-MaintainProjects:before {
+  content: "\e677";
+}
+
+.icon-Project-UpgradeProject:before {
+  content: "\e678";
+}
+
+.icon-Project-RecoveryTool:before {
+  content: "\e67c";
+}
+
+.icon-Project-ActivateProject:before {
+  content: "\e67d";
+}
+
+.icon-Project-RepairProject:before {
+  content: "\e67e";
+}
+
+.icon-Project-Verify:before {
+  content: "\e67f";
+}
+
+.icon-Project-Restore:before {
+  content: "\e680";
+}
+
+.icon-Project-ConvertToUnicode:before {
+  content: "\e681";
+}
+
+.icon-Project-Ping:before {
+  content: "\e682";
+}
+
+.icon-Project-Back:before {
+  content: "\e685";
+}
+
+.icon-Project-Remove:before {
+  content: "\e686";
+}
+
+.icon-Project-CreateDomain:before {
+  content: "\e687";
+}
+
+.icon-UserSetting:before {
+  content: "\e660";
+}
+
+.icon-TableIcon:before {
+  content: "\e663";
+}
+
+.icon-setRole:before {
+  content: "\e60c";
+}
+
+.icon-setPolicy:before {
+  content: "\e60d";
+}
+
+.icon-UserSet:before {
+  content: "\e609";
+}
+
+.icon-AddCustomer:before {
+  content: "\e65d";
+}
+
+.icon-Customer:before {
+  content: "\e65e";
+}
+
+.icon-CustomerSetting:before {
+  content: "\e65f";
+}
+
+.icon-inactiveproject:before {
+  content: "\e608";
+}
+
+.icon-active-icon:before {
+  content: "\e607";
+}
+
+.icon-activeproject:before {
+  content: "\e604";
+}
+
+.icon-Excute:before {
+  content: "\e65b";
+}
+
+.icon-User:before {
+  content: "\e65a";
+}
+
+.icon-Lock:before {
+  content: "\e601";
+}
+
+.icon-Copy:before {
+  content: "\e659";
+}
+
+.icon-LaunchLicensing:before {
+  content: "\e658";
+}
+
+.icon-Circle:before {
+  content: "\e655";
+}
+
+.icon-Print:before {
+  content: "\e656";
+}
+
+.icon-Storage:before {
+  content: "\e657";
+}
+
+.icon-ProjectExport:before {
+  content: "\e651";
+}
+
+.icon-RestoreProject:before {
+  content: "\e654";
+}
+
+.icon-AssignPolicy:before {
+  content: "\e64e";
+}
+
+.icon-SetDefault:before {
+  content: "\e64f";
+}
+
+.icon-SendProj:before {
+  content: "\e648";
+}
+
+.icon-ConnectRefresh:before {
+  content: "\e649";
+}
+
+.icon-DisconnectProj:before {
+  content: "\e64a";
+}
+
+.icon-GroupBy:before {
+  content: "\e64b";
+}
+
+.icon-Disconnect:before {
+  content: "\e64d";
+}
+
+.icon-Export:before {
+  content: "\e646";
+}
+
+.icon-AddParameter:before {
+  content: "\e647";
+}
+
+.icon-AddProject:before {
+  content: "\e643";
+}
+
+.icon-AddDomain:before {
+  content: "\e645";
+}
+
+.icon-clone:before {
+  content: "\e641";
+}
+
+.icon-unlock:before {
+  content: "\e640";
+}
+
+.icon-CaretDown:before {
+  content: "\e63f";
+}
+
+.icon-Servers:before {
+  content: "\e63e";
+}
+
+.icon-calendar:before {
+  content: "\e63c";
+}
+
+.icon-edit:before {
+  content: "\e61c";
+}
+
+.icon-password:before {
+  content: "\e61f";
+}
+
+.icon-active:before {
+  content: "\e620";
+}
+
+.icon-tools:before {
+  content: "\e622";
+}
+
+.icon-spread:before {
+  content: "\e626";
+}
+
+.icon-setting:before {
+  content: "\e62b";
+}
+
+.icon-refresh:before {
+  content: "\e62d";
+}
+
+.icon-labManagement:before {
+  content: "\e62f";
+}
+
+.icon-delete:before {
+  content: "\e632";
+}
+
+.icon-usersManagement:before {
+  content: "\e635";
+}
+
+.icon-user-AssignProjectToUsers:before {
+  content: "\e61b";
+}
+

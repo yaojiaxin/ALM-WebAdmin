@@ -1,0 +1,70 @@
+{
+    "user": "用户",
+    "Save": "保存",
+    "Cancel": "取消",
+    "Edit": "编辑",
+    "Add": "新增",
+    "Back Home": "返回首页",
+    "404": "对不起，您访问的页面不存在。",
+    "login": {
+        "userName": "用户名",
+        "password": "密码",
+        "login": "登录",
+        "userName required": "用户名为必填项",
+        "password required": "需要密码"
+    },
+    "valid": {
+        "email": "无效电子邮件"
+    },
+    "activeCustomer": "活跃客户",
+    "userManagement": {
+        "addUser": "添加用户",
+        "FILTER": "过滤",
+        "userName": "用户名",
+        "fullName": "全名",
+        "email": "电子邮件",
+        "activationStatus": "激活状态",
+        "locked": "锁定",
+        "autoDeactivationDate": "自动停用日期",
+        "role": "角色",
+        "phone": "电话号码",
+        "description": "说明",
+        "authenticationPolicy": "认证策略",
+        "FULLNAME": "全名",
+        "EMAIL": "电子邮件",
+        "ACTIVATION_STATUS": "激活状态",
+        "AUTO_DEACTIVATION_DATE": "自动停用日期",
+        "totalItems": "总项数",
+        "CLEAR": "清除",
+        "User Details": "用户详情",
+        "User Projects": "用户项目",
+        "userToolBar": {
+            "more": "更多",
+            "successModalSubmit": "导出到CSV",
+            "successTableTitle": "名称",
+            "successTableStatus": "状态",
+            "successTableMessage": "消息",
+            "deleteTitle": "删除用户",
+            "deleteUserTitle": "删除用户",
+            "deleteUserContent": "所选用户将被删除。\n用户的所有API密钥也将被删除。继续吗？",
+            "deleteSuccessMessage": "用户删除成功",
+            "delete": "删除",
+
+            "activeUser": "活跃用户",
+            "activeUserTitle": "活动用户",
+            "activeUserContent": "所选用户将被激活。是否继续？",
+            "activeSuccessMessage": "用户激活成功",
+            "active": "活动",
+            "discard": "丢弃",
+            "deActiveUser": "停用用户",
+            "deActiveUserTitle": "停用用户",
+            "deActiveUserContent": "所选用户将被停用。\n用户的所有API密钥也将被删除。是否继续？",
+            "deActiveSuccessMessage": "用户停用成功",
+            "deActive": "停用",
+            "refreshTitle": "刷新"
+        },
+        "userAdd": {
+            "AddNewUser": "添加新用户"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wrror</title>
+    <g id="dialog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1020.000000, -597.000000)" fill="#E5004C" id="编组-10">
+            <g transform="translate(954.000000, 348.000000)">
+                <g id="wrror" transform="translate(66.000000, 249.000000)">
+                    <path d="M16,30.0310308 C8.2805,30.0310308 2,23.7196294 2,15.99975 C2,8.28037062 8.2805,1.99996875 16,1.99996875 C23.7195,1.99996875 30,8.28037062 30,15.99975 C30,23.7196294 23.7195,30.0310308 16,30.0310308 M16,0 C7.1635,0 0,7.16388806 0,15.99975 C0,24.8366119 7.1635,32 16,32 C24.837,32 32,24.8366119 32,15.99975 C32,7.16388806 24.837,0 16,0" id="Fill-1"></path>
+                    <path d="M20.5,10 L22,11.5 L17.499,15.999 L22,20.5 L20.5,22 L15.999,17.499 L11.5,22 L10,20.5 L14.5,15.999 L10,11.5 L11.5,10 L15.999,14.5 L20.5,10 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
