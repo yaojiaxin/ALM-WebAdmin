@@ -1,0 +1,11 @@
+{
+  "default": "en",
+  "en": {
+    "name": "English",
+    "filename": "en_US"
+  },
+  "zh": {
+    "name": "中文",
+    "filename": "zh_CN"
+  }
+}
